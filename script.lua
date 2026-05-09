@@ -113,7 +113,7 @@ btncorner.CornerRadius = UDim.new(0,10)
 btncorner.Parent = button
 
 button.MouseButton1Click:Connect(function()
-	print("Đã bấm nút 😎")
+	print("Đã bấm nút ")
 end)
 
 --------------------------------------------------
